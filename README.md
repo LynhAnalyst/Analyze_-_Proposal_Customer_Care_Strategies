@@ -15,3 +15,9 @@ This project aims to exploit customer data at Fashion Joint Stock Company to ana
 * Understand customers: Identify factors that influence purchasing decisions and customer value.
 * Enhance customer experience: Offer personalized care solutions to increase customer satisfaction and loyalty.
 * Optimize business strategy: Improve marketing campaigns based on real data and predict customer trends.
+
+## Dashboard
+### Over view [(View more)](https://public.tableau.com/views/OverView_17170555989450/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![img](over_view.png)
+### RFM [(View more)](https://public.tableau.com/views/RFM_17170556404990/RFM?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![img](rfm.png)
